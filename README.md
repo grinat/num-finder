@@ -1,6 +1,7 @@
 ## num-finder
-[![](https://img.shields.io/docker/build/grinat0/num-finder.svg)](https://hub.docker.com/r/grinat0/num-finder/builds/) 
+[![](https://img.shields.io/docker/cloud/build/grinat0/num-finder.svg?logo=docker)](https://hub.docker.com/r/grinat0/num-finder) 
 
+Recognize numbers in file and sort by uses count
 
 ### Usage
 #### With node
